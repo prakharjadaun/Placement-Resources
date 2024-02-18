@@ -1,0 +1,12 @@
+{
+    "MD033": {
+      "allowed_elements": [
+        "ul",
+        "li",
+        "h4",
+        "ol",
+        "a",
+        "href"
+      ]
+    }
+  }
