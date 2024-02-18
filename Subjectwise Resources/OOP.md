@@ -5,6 +5,7 @@
 | [OOP in C++ - Education 4u](https://www.youtube.com/watch?v=AGrcyWV7hL8&list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42)|
 | [OOP in C++ - CodeWithHarry](https://youtube.com/playlist?list=PLISTUNloqsz0z9JJJke7g7PxRLvy6How9&si=ufrgDIr476OUa6be) |
 | [OOP in Java](https://www.youtube.com/playlist?list=PLqleLpAMfxGCbdaJ6SoExDfHrTfRDeWeG)|
+|[OOP in Java (Deepak sir)](https://youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b&si=uXv1MJWa8z2l3Hbf)|  
 
 | Articles |
 | :----- |
