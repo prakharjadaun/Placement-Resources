@@ -3,7 +3,6 @@
 This repository contains placement resources such as:  
 <ul>
     <li>Company experiences</li>
-    <li>Internship experiences</li>
     <li>Subjectwise resources</li>
 </ul>
 
@@ -45,4 +44,4 @@ Placement-Resources/
 └── template.md
 ```
 
-Main the directory structure when contributing to the repo.
+Maintain the directory structure when contributing to the repo.
