@@ -1,4 +1,6 @@
-# **Placement Resources**
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Placement Resources&width=1100&height=400" alt="Markdownify" width="800" height="300">
+</h1>
 
 This repository contains placement resources such as:  
 <ul>
