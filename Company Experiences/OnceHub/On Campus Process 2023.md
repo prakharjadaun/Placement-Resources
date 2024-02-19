@@ -3,6 +3,7 @@
 ## **Job Description:**
 
 Job role: SDE
+
 CTC: 8LPA (After Training Period)
 
 <h4>Responsibilities:<h4>
@@ -61,7 +62,7 @@ Written MCQ Test consisting of 4 sections
 LeetCode Easy Coding Questions on various Data Structures, 1 SQL Query, 2 Questions.
 
 <ul>
-    <li>One Simple Array based question</li>
+    <li>One Simple Array-based question</li>
     <li>One Question on simple Tree Traversal</li>
     <li>One Question on simple Graph Traversal</li>
     <li>Reverse A Doubly Linked List</li>
@@ -82,7 +83,7 @@ Mostly Resume Based
     <li>Cpp internal memory structure</li>
     <li>Write/Code Get Intersection between 2 Integer Intervals/Ranges</li>
     <li>Write/Code 2 ways with different Time or Space Complexities to find out Duplicate in an Array</li>
-    <li>Explain all 4 pillars of OOPS with real life examples</li>
+    <li>Explain all 4 pillars of OOPS with real-life examples</li>
     <li>Explain Merge & Quick Sort</li>
     <li>Explain your Projects</li>
     <li>GFG Quizzes</li>
