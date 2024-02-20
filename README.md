@@ -5,6 +5,7 @@
 This repository contains placement resources such as:  
 <ul>
     <li>Company experiences</li>
+    <li>Internship experiences</li>
     <li>Subjectwise resources</li>
 </ul>
 
@@ -30,6 +31,10 @@ Placement-Resources/
 │   │   └── OnCampus Process 2024.md
 │   |── ABC tech/
 │   |    └── On Campus I - 2023.md
+|   .
+|   .
+|-- Internship Experiences/
+|   |--
 |   .
 |   .
 | 
