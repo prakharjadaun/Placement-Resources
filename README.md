@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="Images/readme banner.png" alt="Placement Resources">
-</h1>
+# **Placement Resources**
 
 This repository contains placement resources such as:  
 <ul>
