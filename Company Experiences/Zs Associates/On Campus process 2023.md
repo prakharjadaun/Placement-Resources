@@ -47,7 +47,7 @@ duration - 65 minutes
     <li>Basic SQL mcqs and 2 questions of query writing (medium)</li>
     <li>10 MCQ + 1 DSA question+ 2 SQL queries</li>
     <li>The SQL query will have a lot of tables but don't get intimidated by it, the final query might not even use all tables.</li>
-    <li>Coding question will be easy/medium level.</li>
+    <li>Coding question will be easy/medium level (array based question).</li>
 </ul>
 
 <h4>Interview (Technical + HR):</h4>
@@ -70,4 +70,5 @@ duration - 65 minutes
     <li>SQL Queries should be solved in the least complex way.</li>
     <li>Make sure you know your projects in and out - all the technologies, use cases, the code should be clear enough to explain if asked.</li>
     <li>Be Confident - will sound very obvious but interviewers notice each little detail and take it into account. Be very communicative and clear in your thoughts.</li>
+    <li>Don't lie in your resume or in the interview since it can go against you as well.</li>
 </ul>

@@ -19,4 +19,5 @@
     <li>What is logical and physical data independence?</li>
     <li>Three tier architecture in DBMS.</li>
     <li>Name any two DDL, DML and DQL commands.</li>
+    <li>Concepts like views, joins and schemas</li>
 </ul>

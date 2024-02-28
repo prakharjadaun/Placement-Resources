@@ -4,8 +4,6 @@
 
 Job role: SDE
 
-CTC: 8LPA (After Training Period)
-
 <h4>Responsibilities:<h4>
 <ul>
     <li>Develop and implement new software programs</li>

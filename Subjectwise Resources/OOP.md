@@ -15,6 +15,7 @@
 ## **Interview questions (2024)**
 
 <ul>
+    <li>Pillars of OOP</li>
     <li>Constructors v/s destructors?</li>
     <li>When to use destructors?</li>
     <li>What is a copy constructor?</li>
