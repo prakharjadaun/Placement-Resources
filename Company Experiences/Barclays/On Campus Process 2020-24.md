@@ -2,7 +2,6 @@
 
 ## **Job Description:**
 
-CTC/stipend:  13.3 Lpa
 Job role: BA3
 
 ## **Hiring workflow:**
