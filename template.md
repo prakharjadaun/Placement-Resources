@@ -1,8 +1,7 @@
 # **Company Name:**
 
 ## **Job Description:**
-
-CTC/stipend:  
+ 
 Job role:
 
 ## **Hiring workflow:**
