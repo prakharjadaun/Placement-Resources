@@ -7,6 +7,12 @@ This repository contains placement resources such as:
     <li>Subjectwise resources</li>
 </ul>
 
+## **A Glimpse**
+
+<p align="center">
+<img src="resourceCollage.jpg" alt="collage"/>
+</p>
+
 ## **How to contribute:**
 
 Follow these steps:
