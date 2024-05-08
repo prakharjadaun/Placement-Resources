@@ -2,6 +2,7 @@
 
 | Platform | Links |
 | :------: | :-----: |
+| Youtube | [Knowledge Gate](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD) |
 | Youtube | [CodeHelp (with notes)](https://youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG&si=3tgkNNpB74XGLMOS) |
 | GFG | [Click here](https://www.geeksforgeeks.org/operating-systems/) |
 | Interview Bit | [For MCQs](https://www.interviewbit.com/operating-system-mcq/) |

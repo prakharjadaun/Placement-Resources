@@ -5,6 +5,7 @@
 | [Machine Learning by Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) |
 | [Machine learning by Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe&si=_a7avWJs2WDOy1MX) |
 | [Deep Learning by Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&si=ttQI9oD18rXEWzp0) |
+| [Deep Learning by CampusX](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) |
 
 | Hands-on |
 | :------- |
