@@ -4,6 +4,7 @@
 | :------ |  
 | [Take you Forward (Recommended for interview prep)](https://www.youtube.com/@takeUforward/playlists) |  
 | [CodeHelp - Love Babbar](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)|  
+| [Jenny's Lectures : Basic and Easy Approach](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)|  
 
 | DSA Sheets |  
 | :--------- |  
